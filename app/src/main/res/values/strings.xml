@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">speechless</string>
+    <string name="speed">SPEED</string>
+    <string name="scale">SCALE</string>
+    <string name="enter_your_text">ENTER YOUR TEXT</string>
+    <string name="start">START</string>
+    <string name="pls_enter_english_words">PLS ENTER ENGLISH WORDS</string>
+</resources>
